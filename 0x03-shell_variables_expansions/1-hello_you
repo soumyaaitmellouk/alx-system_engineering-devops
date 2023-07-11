@@ -1,2 +1,2 @@
 #!/bin/bash
-hello PWD
+hello HOME
